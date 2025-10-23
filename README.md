@@ -96,4 +96,4 @@ __OUTPUT GRAPH:__
 <img width="1916" height="1002" alt="image" src="https://github.com/user-attachments/assets/9de53355-f6ad-4272-88c1-4d51153d6b6e" />
 
 __RESULT:__
-Thus , the program for mean, variance and cross correlation in SCILAB has been done and verified 
+Thus , the program for mean, variance and cross correlation in SCILAB has been done and verified .
